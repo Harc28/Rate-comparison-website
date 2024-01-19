@@ -1,0 +1,19 @@
+import requests
+from bs4 import BeautifulSoup
+
+def get_price(url):
+  response = requests.get(url) # Add verify=False parameter to bypass SSL verification
+  soup = BeautifulSoup(response.content, 'html.parser')
+    # Code to retrieve the price from the website
+    # Replace the ellipsis with the code to extract the price
+price = 10  # Just an example; replace with actual code to extract the price
+
+
+search = input("Enter the word to search: ")
+amazon_url = 'https://www.amazon.in/s?k=' + search
+flipkart_url = 'https://www.flipkart.com/search?q=' + search 
+blinkit_url = 'https://www.blinkit.com/search?q=' + search
+
+print(amazon_url)
+print(flipkart_url)
+print(blinkit_url)
