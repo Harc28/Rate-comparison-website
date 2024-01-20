@@ -1,0 +1,700 @@
+.wireframe {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.wireframe .BG-wrapper {
+  background-color: #ffffff;
+  height: 947px;
+  overflow: hidden;
+  width: 1383px;
+}
+
+.wireframe .BG {
+  background-color: #ffffff;
+  height: 2259px;
+  overflow-y: scroll;
+  width: 1440px;
+}
+
+.wireframe .overlap-2 {
+  height: 2269px;
+  position: relative;
+  top: -10px;
+  width: 1444px;
+}
+
+.wireframe .bg {
+  height: 2265px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 1440px;
+}
+
+.wireframe .image {
+  height: 280px;
+  left: 720px;
+  object-fit: cover;
+  position: absolute;
+  top: 1663px;
+  width: 194px;
+}
+
+.wireframe .header-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.wireframe .design-component-instance-node {
+  width: 1444px !important;
+}
+
+.wireframe .text-wrapper-4 {
+  color: #000000;
+  font-family: "Bebas Neue-Regular", Helvetica;
+  font-size: 96px;
+  font-weight: 400;
+  left: 78px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 220px;
+  width: 522px;
+}
+
+.wireframe .h-up {
+  height: 1px;
+  left: 66px;
+  object-fit: cover;
+  position: absolute;
+  top: 348px;
+  width: 1291px;
+}
+
+.wireframe .pro {
+  height: 532px;
+  left: 86px;
+  position: absolute;
+  top: 379px;
+  width: 498px;
+}
+
+.wireframe .overlap-3 {
+  border-radius: 20px;
+  height: 532px;
+  position: relative;
+  width: 492px;
+}
+
+.wireframe .text-wrapper-5 {
+  color: #000000;
+  font-family: "Bellota Text-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 381px;
+  width: 81px;
+}
+
+.wireframe .text-wrapper-6 {
+  color: #000000;
+  font-family: "Bellota Text-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 449px;
+  width: 81px;
+}
+
+.wireframe .flipkart {
+  height: 51px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 441px;
+  width: 54px;
+}
+
+.wireframe .group {
+  height: 39px;
+  left: 221px;
+  position: absolute;
+  top: 378px;
+  width: 157px;
+}
+
+.wireframe .overlap-group-2 {
+  background-color: #24358f;
+  border-radius: 10px;
+  height: 39px;
+  position: relative;
+  width: 155px;
+}
+
+.wireframe .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Bebas Neue-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 4px;
+  width: 79px;
+}
+
+.wireframe .p {
+  color: #000000;
+  font-family: "Bellota Text-Bold", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 284px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 61px;
+  width: 163px;
+}
+
+.wireframe .amazon {
+  height: 41px;
+  left: 44px;
+  object-fit: cover;
+  position: absolute;
+  top: 378px;
+  width: 42px;
+}
+
+.wireframe .group-2 {
+  height: 39px;
+  left: 221px;
+  position: absolute;
+  top: 445px;
+  width: 157px;
+}
+
+.wireframe .redmi {
+  height: 299px;
+  left: 20px;
+  position: absolute;
+  top: 34px;
+  width: 234px;
+}
+
+.wireframe .product {
+  border: 1px solid;
+  border-color: #00000030;
+  border-radius: 20px;
+  height: 532px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 492px;
+}
+
+.wireframe .pro-2 {
+  height: 519px;
+  left: 664px;
+  position: absolute;
+  top: 387px;
+  width: 499px;
+}
+
+.wireframe .overlap-4 {
+  border-radius: 20px;
+  height: 519px;
+  position: relative;
+  width: 495px;
+}
+
+.wireframe .text-wrapper-8 {
+  color: #000000;
+  font-family: "Bellota Text-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 97px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 371px;
+  width: 130px;
+}
+
+.wireframe .group-3 {
+  height: 39px;
+  left: 238px;
+  position: absolute;
+  top: 367px;
+  width: 157px;
+}
+
+.wireframe .group-4 {
+  height: 39px;
+  left: 238px;
+  position: absolute;
+  top: 442px;
+  width: 157px;
+}
+
+.wireframe .product-2 {
+  border: 1px solid;
+  border-color: #00000030;
+  border-radius: 20px;
+  height: 519px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 495px;
+}
+
+.wireframe .flipkart-2 {
+  height: 50px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 430px;
+  width: 54px;
+}
+
+.wireframe .text-wrapper-9 {
+  color: #000000;
+  font-family: "Bellota Text-Bold", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 302px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 43px;
+  width: 164px;
+}
+
+.wireframe .image-2 {
+  height: 293px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 255px;
+}
+
+.wireframe .amazon-2 {
+  height: 40px;
+  left: 44px;
+  object-fit: cover;
+  position: absolute;
+  top: 368px;
+  width: 42px;
+}
+
+.wireframe .pro-3 {
+  height: 519px;
+  left: 95px;
+  position: absolute;
+  top: 1019px;
+  width: 499px;
+}
+
+.wireframe .group-5 {
+  height: 39px;
+  left: 238px;
+  position: absolute;
+  top: 368px;
+  width: 157px;
+}
+
+.wireframe .group-6 {
+  height: 39px;
+  left: 238px;
+  position: absolute;
+  top: 435px;
+  width: 157px;
+}
+
+.wireframe .group-7 {
+  height: 39px;
+  left: 238px;
+  position: absolute;
+  top: 308px;
+  width: 157px;
+}
+
+.wireframe .THE-TRIPPY-STORE {
+  color: #000000;
+  font-family: "Bellota Text-Bold", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 286px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 59px;
+  width: 164px;
+}
+
+.wireframe .pro-4 {
+  height: 1089px;
+  left: 65px;
+  position: absolute;
+  top: 1010px;
+  width: 1106px;
+}
+
+.wireframe .overlap-5 {
+  border-radius: 20px;
+  height: 519px;
+  left: 605px;
+  position: absolute;
+  top: 6px;
+  width: 495px;
+}
+
+.wireframe .text-wrapper-10 {
+  color: #000000;
+  font-family: "Bellota Text-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 108px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 309px;
+  width: 130px;
+}
+
+.wireframe .group-8 {
+  height: 39px;
+  left: 247px;
+  position: absolute;
+  top: 291px;
+  width: 157px;
+}
+
+.wireframe .group-9 {
+  height: 39px;
+  left: 247px;
+  position: absolute;
+  top: 362px;
+  width: 157px;
+}
+
+.wireframe .group-10 {
+  height: 39px;
+  left: 247px;
+  position: absolute;
+  top: 437px;
+  width: 157px;
+}
+
+.wireframe .flipkart-3 {
+  height: 50px;
+  left: 44px;
+  object-fit: cover;
+  position: absolute;
+  top: 362px;
+  width: 54px;
+}
+
+.wireframe .text-wrapper-11 {
+  color: #000000;
+  font-family: "Bellota Text-Bold", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 272px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 71px;
+  width: 153px;
+}
+
+.wireframe .amazon-3 {
+  height: 40px;
+  left: 50px;
+  object-fit: cover;
+  position: absolute;
+  top: 307px;
+  width: 42px;
+}
+
+.wireframe .text-wrapper-12 {
+  color: #000000;
+  font-family: "Bellota Text-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 133px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1059px;
+}
+
+.wireframe .pro-5 {
+  height: 1093px;
+  left: 664px;
+  position: absolute;
+  top: 1051px;
+  width: 499px;
+}
+
+.wireframe .overlap-6 {
+  border-radius: 20px;
+  height: 519px;
+  left: 0;
+  position: absolute;
+  top: 574px;
+  width: 495px;
+}
+
+.wireframe .diesel-analog-blue {
+  color: #000000;
+  font-family: "Bellota Text-Bold", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 293px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 57px;
+  width: 164px;
+}
+
+.wireframe .green-niggah {
+  height: 224px;
+  left: 77px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 173px;
+}
+
+.wireframe .pro-6 {
+  height: 1312px;
+  left: 93px;
+  position: absolute;
+  top: 831px;
+  width: 775px;
+}
+
+.wireframe .overlap-7 {
+  border-radius: 20px;
+  height: 519px;
+  left: 0;
+  position: absolute;
+  top: 793px;
+  width: 495px;
+}
+
+.wireframe .BI-FASHION-men-s {
+  color: #000000;
+  font-family: "Bellota Text-Bold", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 273px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 67px;
+  width: 172px;
+}
+
+.wireframe .text-wrapper-13 {
+  color: #000000;
+  font-family: "Bellota Text-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 105px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 372px;
+}
+
+.wireframe .blue-hoodie {
+  height: 281px;
+  left: 48px;
+  object-fit: cover;
+  position: absolute;
+  top: 39px;
+  width: 180px;
+}
+
+.wireframe .text-wrapper-14 {
+  color: #000000;
+  font-family: "Bellota Text-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 671px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1231px;
+}
+
+.wireframe .text-wrapper-15 {
+  color: #000000;
+  font-family: "Bellota Text-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 687px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 553px;
+}
+
+.wireframe .text-wrapper-16 {
+  color: #000000;
+  font-family: "Bellota Text-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 101px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 626px;
+  width: 51px;
+}
+
+.wireframe .image-3 {
+  height: 40px;
+  left: 48px;
+  object-fit: cover;
+  position: absolute;
+  top: 496px;
+  width: 37px;
+}
+
+.wireframe .text-wrapper-17 {
+  color: #000000;
+  font-family: "Bellota Text-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 687px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 625px;
+}
+
+.wireframe .text-wrapper-18 {
+  color: #000000;
+  font-family: "Bellota Text-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 101px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 501px;
+}
+
+.wireframe .ajio {
+  height: 41px;
+  left: 627px;
+  object-fit: cover;
+  position: absolute;
+  top: 614px;
+  width: 41px;
+}
+
+.wireframe .black-shirt {
+  height: 221px;
+  left: 38px;
+  position: absolute;
+  top: 237px;
+  width: 190px;
+}
+
+.wireframe .text-wrapper-19 {
+  color: #000000;
+  font-family: "Bellota Text-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 673px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.wireframe .sidebar {
+  height: 1748px;
+  left: 1227px;
+  position: absolute;
+  top: 395px;
+  width: 182px;
+}
+
+.wireframe .vector {
+  height: 43px;
+  left: 1121px;
+  position: absolute;
+  top: 45px;
+  width: 44px;
+}
+
+.wireframe .account-circle {
+  height: 96px;
+  left: 335px;
+  position: absolute;
+  top: 215px;
+  width: 96px;
+}
+
+.wireframe .bell {
+  height: 50px;
+  left: 1213px;
+  position: absolute;
+  top: 43px;
+  width: 46px;
+}
+
+.wireframe .more {
+  height: 91px;
+  left: 1031px;
+  position: absolute;
+  top: 18px;
+  width: 50px;
+}
+
+.wireframe .overlap-8 {
+  height: 91px;
+  position: relative;
+}
+
+.wireframe .horizontal-line {
+  height: 61px;
+  left: 0;
+  position: absolute;
+  top: 14px;
+  width: 50px;
+}
+
+.wireframe .horizontal-line-2 {
+  height: 61px;
+  left: 0;
+  position: absolute;
+  top: 30px;
+  width: 50px;
+}
+
+.wireframe .horizontal-line-3 {
+  height: 61px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 50px;
+}
