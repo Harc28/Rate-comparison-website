@@ -1,0 +1,69 @@
+import React from "react";
+import "./style.css";
+
+export const MainScrn = () => {
+  return (
+    <div className="main-scrn">
+      <div className="text-wrapper">Genzify</div>
+      <div className="lets-compare">
+        <div className="overlap-group">
+          <div className="div">Lets compare</div>
+        </div>
+      </div>
+    </div>
+  );
+};
+.main-scrn {
+  background-image: url(./main-scrn.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1556px;
+  position: relative;
+  width: 2128px;
+}
+
+.main-scrn .text-wrapper {
+  color: #ffffff;
+  font-family: "Bebas Neue-Regular", Helvetica;
+  font-size: 300px;
+  font-weight: 400;
+  left: 697px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 341px;
+  width: 1075px;
+}
+
+.main-scrn .lets-compare {
+  height: 131px;
+  left: 844px;
+  position: absolute;
+  top: 754px;
+  width: 442px;
+}
+
+.main-scrn .overlap-group {
+  background-color: #87dde3;
+  border-radius: 20px;
+  height: 131px;
+  position: relative;
+  width: 440px;
+}
+
+.main-scrn .div {
+  color: #030e3f;
+  font-family: "Bebas Neue-Regular", Helvetica;
+  font-size: 64px;
+  font-weight: 400;
+  left: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 24px;
+  width: 326px;
+}
+
+:root {
+  --d-9d-9d-9: rgba(22, 30, 100, 1);
+}
